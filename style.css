@@ -9,6 +9,11 @@ body {
   color: #444;
 }
 
+::selection {
+  color: white;
+  background: gray;
+}
+
 h1,
 h2,
 h3 {
