@@ -1,41 +1,67 @@
-<a href="https://urlscan.io//">URLScan.io</a>
+[URLScan.io](https://urlscan.io)
 
-<a href="http://www.malwareurl.com/listing-urls.php">MalwareURL</a>
 
-<a href="http://urlvoid.com/">URLVoid</a>
+[MalwareURL](https://malwareurl.com/listing-urls.php)
 
-<a href="https://sitelookup.mcafee.com/">MCAfee check</a>
 
-<a href="http://urlquery.net/">URLQuery</a>
+[URLVoid](https://urlvoid.com)
 
-<a href="https://checkphish.ai/">CheckPhish</a>
 
-<a href="https://phishcheck.me/">PhishCheck</a>
+[MCAfee Check](https://sitelookup.mcafee.com)
 
-<a href="https://wheregoes.com/">WhereGoes</a>
 
-<a href="http://quttera.com/">Quttera</a>
+[URLQuery](https://urlquery.net)
 
-<a href="https://urlfiltering.paloaltonetworks.com/">PaloAlto Scan</a>
 
-<a href="https://sitereview.bluecoat.com/#/">Symantec SiteReview</a>
+[CheckPhish](https://checkphish.ai)
 
-<a href="http://zulu.zscaler.com/">Zscaler Scan</a>
 
-<a href="https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner">IP Quality score scan</a>
+[PhishCheck](https://phishcheck.me)
 
-<a href="http://www.cachedpages.com/">CachedPages</a>
 
-<a href="https://website.informer.com/">Website Informer</a>
+[WhereGoes](https://wheregoes.com)
 
-<a href="https://followthatpage.com/">FollowThatPage</a>
 
-<a href="https://cachedviews.com/">CachedViews</a>
+[Quttera](https://quttera.com)
 
-<a href="https://app.crowdsec.net/cti">CrowdSec</a>
 
-<a href="https://www.metadefender.com/#!/scan-file">MetaDefender</a>
+[PaloAlto Scan](https://urlfiltering.paloaltonetworks.com)
 
-<a href="https://cybercrime-tracker.net/">Cybercrime Tracker</a>
 
-<a href="https://www.browserling.com/">Browserling</a>
+[Symantec SiteReview](https://sitereview.bluecoat.com)
+
+
+[Zscaler Scan](https://zulu.zscaler.com)
+
+
+[IPQualityScoreScan](https://ipqualityscore.com/threat-feeds/malicious-url-scanner)
+
+
+[CachedPages](https://cachedpages.com)
+
+
+[WebSiteInformer](https://website.informer.com)
+
+
+[FollowThatPage](https://followthatpage.com)
+
+
+[CachedViews](https://cachedviews.com)
+
+
+[CrowdSec](https://app.crowdsec.net/cti)
+
+
+[MetaDefender](https://metadefender.com/#!/scan-file)
+
+
+[Cybercrime Tracker](https://cybercrime-tracker.net)
+
+
+[Browserling](https://browserling.com)
+
+
+
+
+
+[Back](https://dolphinato.github.io/dolphinage/)
