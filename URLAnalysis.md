@@ -19,7 +19,7 @@
 
 
 [PhishCheck](https://phishcheck.me)
-#sandbox #realiable #osint 
+#sandbox #reliaable #osint 
 
 
 [WhereGoes](https://wheregoes.com)
