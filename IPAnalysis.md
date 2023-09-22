@@ -1,17 +1,17 @@
 [VirusTotal](https://www.virustotal.com/gui/home/search) 
->Perfect for threat hunting, it's graph function is incredibly useful in pinpointing attack sources and gather a lot of info.
+<p hidden>Perfect for threat hunting, it's graph function is incredibly useful in pinpointing attack sources and gather a lot of info.</p>>
 
 
 [AbuseIPDB](https://www.abuseipdb.com) 
->Community-driven, results tend to be pretty accurate, as IoC tend to be automatically uploaded from SOCs and researchers worldwide.
+<p hidden>Community-driven, results tend to be pretty accurate, as IoC tend to be automatically uploaded from SOCs and researchers worldwide.</p>>
 
 
 [GreyNoise](https://viz.greynoise.io) 
->Hit-or-miss, but if it hits, it hits pretty hard.
+<p hidden>Hit-or-miss, but if it hits, it hits pretty hard.</p>>
 
 
 [IpInfo](https://ipinfo.io) 
->Not much for threat data, but good for simple details.
+<p hidden>Not much for threat data, but good for simple details.</p>>
 
 
 [IPVoid](http://www.ipvoid.com) 
