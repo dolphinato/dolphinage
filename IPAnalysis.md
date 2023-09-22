@@ -15,6 +15,6 @@
 <a href="https://threatfox.abuse.ch/"></a>ThreatFox</p>
 <a href="https://feodotracker.abuse.ch/"></a>Feodo</p>
 <a href="https://www.threatminer.org/"></a>ThreatMiner</p>
-<a href="">https://app.crowdsec.net/cti</a>CrowdSec</p>
+<a href="https://app.crowdsec.net/cti"></a>CrowdSec</p>
 <a href="https://www.metadefender.com/#!/scan-file"></a>MetaDefender</p>
 <a href="https://asnlookup.com/"></a>ASNLookup</p>
